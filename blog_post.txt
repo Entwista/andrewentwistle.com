@@ -8,28 +8,6 @@ On the other (other) hand (this now being the third hand), I really could have f
 
 Drafting in advance was always a part of the plan, it obviously just results in better articles with less effort, you put in a little bit of time creating an outline, give your brain time to work on it, and then come back later and polish it into an actually decent post. In order to actually make sure that drafting happens, I am starting a whole new habit, I am going to spend at least 30 minutes every day on my laptop. If me a year ago could have read this he would have been very confused, but I now go days without using my laptop for anything, it's very easy to just finish work and come home and hang out with people and waste time on my phone. In this time I am going to go through my emails, plan out my time on my calendar, and write, I think if I do these three things it will be very beneficial to my life, because really I shouldn't be writing one half-hearted blog post every week, if I really want to improve, I should be putting words on the page every day.
 
-The bet you should never make
-
-I am going to keep flipping a coin until I get a heads, for every tails I get in a row before that first heads, I will double the amount of money I will give you. So if it lands on heads first, you get $1. One tails and then a heads, you get $2. Two tails and then a heads, you get $4.
-
-How much would you pay to play this game? I would pay about $20, but if you do the maths, it turns out that this game is literally priceless.
-
-Here's how you figure out how much the game is worth, consider you chance of getting a certain amount of tails in a row, and then the payout if this is to occur, then add up the amounts you get for all the different options, and you have the value of the game. In probability, this is called the expected value, the average amount the game would pay out if you played it an infinite amount of times.
-
-You have a 1/2 chance (no tails before heads) of winning $1, so this outcome is worth $0.50.
-
-You have a 1/4 chance (one tails then heads) of winning $2, so this outcome is worth 1/4 * $2 = $0.50
-
-You have a 1/8 chance (two tails then heads) of winning $4, so this outcome is worth 1/8* $4 = $0.50
-
-For every outcome, the chance halves put the payout doubles, so each one is worth $0.50. But there an infinite amount of outcomes, you could technically get any amount of tails before you get a heads, so the game is worth $0.50 + $0.50 + $0.50.... continuing on forever, which is infinite money.
-
-This is where the example I went through in a statistics course ended, you have this counterintuitive answer about what seems like a very simple game, it seems like obviously there has to exist a price that is too high to pay, but maths doesn't lie, there isn't one.
-
-Why then am I going to pay $20 to play this game? It's because in real life there is a maximum amount of money that you could conceivably win, if you won much more than a trillion dollars, the global monetary system would cease to make any sense, and there would be no organisation (we are already past the net worth of the richest person in the world here) with enough money to pay you. So let's run the numbers again, but this time with a cap on the maximum payout, at $1,000,000,000,000. It seems like this shouldn't make a lot of a difference, you only win that much money about one in a trillion times.
-
-To figure out how many outcomes there are below $1 trillion, we take a logarithm with base 2 of $1 trillion, and get 40 (a logarithm with base 2 essentially asks the question, how many times do I have to multiply 2 by itself to get the number). Each outcome is worth $0.50, so the game is now worth 40*$0.50 = $20. It seems absurd to me that placing what seems like a very trivial restriction on the game takes it's value from infinity to $20, but it does, and for me that says a lot about how we think about extremely low likelihood events, we intuitively ignore them completely, and a lot of the time, it doesn't do us much harm.
-
 Buying too much stuff on Amazon
 
 When you open up your email, and you have 24 unread emails from Amazon from the past week describing the shipping and delivery dates of your purchases, it makes you think that perhaps online shopping is a little too easy. So today I'm going to go through everything I bought on Amazon in the last couple of weeks, and decide how much of it was a good decision. 

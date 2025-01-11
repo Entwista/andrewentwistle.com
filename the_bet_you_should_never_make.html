@@ -1,0 +1,21 @@
+<h1>The bet you should never make</h1>
+
+<p>I am going to keep flipping a coin until I get a heads, for every tails I get in a row before that first heads, I will double the amount of money I will give you. So if it lands on heads first, you get $1. One tails and then a heads, you get $2. Two tails and then a heads, you get $4.</p>
+
+<p>How much would you pay to play this game? I would pay about $20, but if you do the maths, it turns out that this game is literally priceless.</p>
+
+<p>Here's how you figure out how much the game is worth, consider you chance of getting a certain amount of tails in a row, and then the payout if this is to occur, then add up the amounts you get for all the different options, and you have the value of the game. In probability, this is called the expected value, the average amount the game would pay out if you played it an infinite amount of times.</p>
+
+<p>You have a 1/2 chance (no tails before heads) of winning $1, so this outcome is worth $0.50.</p>
+
+<p>You have a 1/4 chance (one tails then heads) of winning $2, so this outcome is worth 1/4 * $2 = $0.50</p>
+
+<p>You have a 1/8 chance (two tails then heads) of winning $4, so this outcome is worth 1/8* $4 = $0.50</p>
+
+<p>For every outcome, the chance halves put the payout doubles, so each one is worth $0.50. But there an infinite amount of outcomes, you could technically get any amount of tails before you get a heads, so the game is worth $0.50 + $0.50 + $0.50.... continuing on forever, which is infinite money.</p>
+
+<p>This where the example I went through in a statistics course ended, you have this counterintuitive answer about what seems like a very simple game, it seems like obviously there has to exist a price that is too high to pay, but maths doesn't lie, there isn't one.</p>
+
+<p>Why then am I going to pay $20 to play this game? It's because in real life there is a maximum amount of money that you could conceivably win, if you won much more than a trillion dollars, the global monetary system would cease to make any sense, and there would be no organisation (we are already past the net worth of the richest person in the world here) with enough money to pay you. So let's run the numbers again, but this time with a cap on the maximum payout, at $1,000,000,000,000. It seems like this shouldn't make a lot of a difference, you only win that much money about one in a trillion times.</p>
+
+<p>To figure out how many outcomes there are below $1 trillion, we take a logarithm with base 2 of $1 trillion, and get 40 (a logarithm with base 2 essentially asks the question, how many times do I have to multiply 2 by itself to get the number). Each outcome is worth $0.50, so the game is now worth 40*$0.50 = $20. It seems absurd to me that placing what seems like a very trivial restriction on the game takes it's value from infinity to $20, but it does, and for me that says a lot about how we think about extremely low likelihood events, we intuitively ignore them completely, and a lot of the time, it doesn't do us much harm.</p>
