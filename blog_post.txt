@@ -1,0 +1,255 @@
+Sorry, but not really
+
+Last Saturday, I failed to publish a blog post. I didn't actually realise that this had happened until Monday. For a moment I felt bad about this failure, it's not like I have been totally organised with the blog up until this point, but entirely skipping it was definitely not a win.
+
+On the other hand, last week was a really great week, and I was having way too much fun to feel bad about writing a sub-par blog post about something silly, even if I had of remembered. Last week I met a lot of new people, learned a lot and generally just felt grateful for life. If missing a blog post is the price I have to pay for that then that is alright with me. 
+
+On the other (other) hand (this now being the third hand), I really could have found time to write a blog post, and given that we live in 2021 and have access to extremely reliable and powerful technology, I probably could have found a way not to forget. So I'm not going to miss another one, the way I'm going to achieve this is to set myself a reminder every week on Saturday at 4pm, so that even if I somehow have forgotten to write something before then I have time to at least get something out, and I am going to start drafting more in advance.
+
+Drafting in advance was always a part of the plan, it obviously just results in better articles with less effort, you put in a little bit of time creating an outline, give your brain time to work on it, and then come back later and polish it into an actually decent post. In order to actually make sure that drafting happens, I am starting a whole new habit, I am going to spend at least 30 minutes every day on my laptop. If me a year ago could have read this he would have been very confused, but I now go days without using my laptop for anything, it's very easy to just finish work and come home and hang out with people and waste time on my phone. In this time I am going to go through my emails, plan out my time on my calendar, and write, I think if I do these three things it will be very beneficial to my life, because really I shouldn't be writing one half-hearted blog post every week, if I really want to improve, I should be putting words on the page every day.
+
+The bet you should never make
+
+I am going to keep flipping a coin until I get a heads, for every tails I get in a row before that first heads, I will double the amount of money I will give you. So if it lands on heads first, you get $1. One tails and then a heads, you get $2. Two tails and then a heads, you get $4.
+
+How much would you pay to play this game? I would pay about $20, but if you do the maths, it turns out that this game is literally priceless.
+
+Here's how you figure out how much the game is worth, consider you chance of getting a certain amount of tails in a row, and then the payout if this is to occur, then add up the amounts you get for all the different options, and you have the value of the game. In probability, this is called the expected value, the average amount the game would pay out if you played it an infinite amount of times.
+
+You have a 1/2 chance (no tails before heads) of winning $1, so this outcome is worth $0.50.
+
+You have a 1/4 chance (one tails then heads) of winning $2, so this outcome is worth 1/4 * $2 = $0.50
+
+You have a 1/8 chance (two tails then heads) of winning $4, so this outcome is worth 1/8* $4 = $0.50
+
+For every outcome, the chance halves put the payout doubles, so each one is worth $0.50. But there an infinite amount of outcomes, you could technically get any amount of tails before you get a heads, so the game is worth $0.50 + $0.50 + $0.50.... continuing on forever, which is infinite money.
+
+This is where the example I went through in a statistics course ended, you have this counterintuitive answer about what seems like a very simple game, it seems like obviously there has to exist a price that is too high to pay, but maths doesn't lie, there isn't one.
+
+Why then am I going to pay $20 to play this game? It's because in real life there is a maximum amount of money that you could conceivably win, if you won much more than a trillion dollars, the global monetary system would cease to make any sense, and there would be no organisation (we are already past the net worth of the richest person in the world here) with enough money to pay you. So let's run the numbers again, but this time with a cap on the maximum payout, at $1,000,000,000,000. It seems like this shouldn't make a lot of a difference, you only win that much money about one in a trillion times.
+
+To figure out how many outcomes there are below $1 trillion, we take a logarithm with base 2 of $1 trillion, and get 40 (a logarithm with base 2 essentially asks the question, how many times do I have to multiply 2 by itself to get the number). Each outcome is worth $0.50, so the game is now worth 40*$0.50 = $20. It seems absurd to me that placing what seems like a very trivial restriction on the game takes it's value from infinity to $20, but it does, and for me that says a lot about how we think about extremely low likelihood events, we intuitively ignore them completely, and a lot of the time, it doesn't do us much harm.
+
+Buying too much stuff on Amazon
+
+When you open up your email, and you have 24 unread emails from Amazon from the past week describing the shipping and delivery dates of your purchases, it makes you think that perhaps online shopping is a little too easy. So today I'm going to go through everything I bought on Amazon in the last couple of weeks, and decide how much of it was a good decision. 
+
+1. Outliers by Malcolm Gladwell - $19 - I actually read this book, I consider it to be a worthwhile buy.
+
+2. Accounting for Dummies - $39 - I work in a job where people would expect that I know a thing or two about accounting, and yet I felt the need to buy this book. I should have checked beforehand which accounting standards it used, because I am now having to return it because it uses US accounting standards. I'm going to return in tomorrow and I feel like a bit of a dummy.
+
+3. Phillips PowerLife Steam Iron - $65 - Completely worthwhile buy, before this I had the cheapest iron from Kmart and it was just nowhere near as good, also it has melted polyester on it from a shirt I bought in Vietnam that claimed to be 100% cotton.
+
+4. Sunbeam Ironing Board - I don't want to say - I spent a lot of money on an ironing board, I spend a lot of time ironing so I thought it was worth it, time will tell.
+
+5. Anker Wireless Charger - $30 - My phone got sand in the charging port from a game of beach volleyball that I got a little too excited about.
+
+6. The Big Four - The Curious Past and Perilous Future of the Global Accounting Monopoly - $24 - Haven't read it yet, excited to read it
+
+7. Hailstorm Folding Reverse Umbrella - $26 - I'm not even really sure what a reverse umbrella is but I got rained on this Wednesday and decided I needed to buy an umbrella the second I got into work.
+
+8. Newdora Windproof Travel Folding Umbrella - $26 - I'm really sick of my umbrellas going missing and then having to go somewhere in the rain, so I got another one, I hope one of them is good.
+
+Overall I stand by my purchases, I've recently decided to buy stuff that is higher quality if I think it will last me longer, so I don't feel bad about the expensive items in the list. I really need to start reading more books if I am going to be buying this many.
+
+Calculus before Algebra - Part 2 Limits - draft, its just the title
+
+Calculus before Algebra (Part 1)
+
+Its a little sad to me that the ideas of calculus are only understood by those who make it all the way through long division, quadratic equations and trigonometry on their way to the final year of high school. There, they are taught a subject so simple that it could by understood by an 11 year old who doesn't know her timetables (this overly specific example may be from my personal experience as a tutor). 
+
+I'm not going to explain how calculus was invented or how you can prove that it works, but I think the basic ideas of the derivative and integral are so relevant to any conception of how the world works that it is absurd that they aren't taught to everyone by age 13.
+
+How to get rich
+
+Lets say Jimmy currently has wealth of $100 and it's the first day of the year. If I start making $10/day, then we could say that the first derivative of my wealth would be my income which is $10/day. The numbers here aren't necessary but might help people understand, the key idea here is that income is the thing that caused wealth to change, and hence we call income the first derivative. Why call it the first derivative? Because we can take more derivatives to getter a fuller picture of the situation.
+
+If you want to get rich, you need to not only earn money, but earn it at an increasing rate. Let's call the amount your income goes up by each year your yearly raise. Your yearly raise is what increases your income, and so we can call it the first derivate of your income. If you understood that, this would be a good time to stop reading and pat yourself on the back, because being able to identify that one quantity is the derivative of another is the core skill here, and what I think we should teach to every 13 year old (note that taking the first derivative is the same as taking the derivative).
+
+Now that you have a solid understanding of calculus, lets move on to the second derivative. This is simple the derivative of a derivative. To go back to the old example, we had that your yearly raise is the derivative of your income which is the derivative of your wealth. Then we can say that your yearly raise is the second derivative of your wealth.
+
+I'm a big believer that more examples = better, so these are some other examples of derivatives that you may find interesting. 
+
+Speed is the first derivative of distance.
+
+Acceleration is the first derivative of speed and the second derivative of distance.
+
+Learning is the first derivative of understanding. 
+
+The derivative of population is population growth (the fact that population growth is proportional to population means that this growth is exponential).
+
+What exactly is the point?
+
+While receiving the joy of patting yourself on the back because you understand calculus is great, it is isn't the reason I think people should understand this. The reason you should understand calculus is because it is a powerful tool to think about the world. Let's go back to Jimmy and his wealth.
+
+If Jimmy got to choose between getting $100 now, or a $5 higher yearly raise, which one should he choose if he wants to have the most money in the long run? You don't need to actually do any maths to get the answer, it is all about the relationship between the quantities. If one person has higher income than another, the difference in wealth will always be overcome eventually, and if one person is getting higher yearly raises than another, eventually the one getting higher yearly raises will end up with a higher income. Therefore he should take the higher yearly raise, this logic follows for all other systems where quanities are connected by derivatives, affecting the highest level derivatives has the greatest impact over the long term. It's why people choose to go to uni rather than getting a job, you sacrifice a lower income now for the ability for your income to have a higher rate of growth in the future, and if given enough time the higher derivative always wins.
+
+At some point in the future there will be a part 2 and maybe even a part 3 of this post, because I am trying to build a collection of plain english explainers of mathematical concepts that people learnt in awful ways. Any feedback on this one would be greatly appreciated. 
+
+The right way to introduce people to VR
+
+My path into VR
+
+I bought my first VR headset about three years ago. I had recently got a Samsung Galaxy S7 and knew it was compatible with the Gear VR headset, so I got the headset and controller for $100. It blew my mind. Most of the people I have seen try VR for the first time are fairly blown away by it, there is just nothing quite like the experience of standing in a room that you know is entirely ficticious and your brain tricking you into thinking it might be real space. 
+
+There were a lot of problems with the Gear VR, the main one being that it had a tendency to overheat. Phones aren't made to run VR games, and without a fan to keep it cool it will quickly overheat, the battery on your phone also gets drained very quickly and you have to recharge it a lot, which I am sure is not good for your battery life long term. The headset is also 3 degrees of freedom which means that it only understands what angle your head is pointed in, if you move it straight forward nothing happens (the same goes for the controller). While the experience is really interesting, its not something that I would ever use consistetly, there just wasn't enough comfort and the platform wasn't good enough for people to build great apps on top of.
+
+About a year ago I bought an Oculus Quest, it cost me around $649. Obviously this is a substantial amount of money, especially for a student that usually wouldn't spend that much money is a fortnight. I knew that VR was a technology that I wanted to be involved with, so eventually I was able to convince myself to get one. The first game I bought was Beat Saber, and I've been playing it obsessively ever since.
+
+VR evangelists
+
+VR has a strange community around it, many of its members are convinced that VR is the most important piece of technology of our time, and that it is crucial that we get as many people as possible involved with it so that it will develop faster (At some point I will find a link to a speech from an Oculus executive that reads like a religous sermon and put it here). I don't really believe that, I think it is a great technology that will become more important going forward, but I don't reallly believe that we will give up physical screens and looking at people with our real eyes and no lenses anytime soon. I do however really like showing off my VR headset, and seeing people have their first experience with the technology.
+
+The key to an actually good first VR experience
+
+VR speaks for itself, if someone has never tried it before, a room in which you can just pick up blocks and throw them around will still be impressive. I say this because there are a lot of VR experiences that people often show others as their first that while they have a lot of shock factor are not actually likely to be a good experience. The principal example of this is a Roller Coaster simulator. If people are motion sick the first time they try VR because they are immediately experiencing smooth locomotion, then they are much less likely to want to try it again in the future (as far as I understand they are also more likely to immediately feel motion sick whenever they put a VR headset on again the next time, don't do that to your friends). I think Oculus did a really good job with its First Steps experience and if you have an Oculus device I would just go with that, but something like superhot that has an intuitive control scheme and you are mostly standing still is always good.
+
+I also don't just try and get someone to play immediately. There is often a lot of hesitation towards trying VR. I think this is mainly due to two reasons.
+
+1. They are worried about motion sickness (if they have tried a rollercoaster sim or something similar on a Gear VR then this is likely at the forefront of their minds).
+
+2. They are worried that will look silly, they won't know what to do, and people will be judging them while they can't even see them.
+
+I've already talkeed about the first issue, to address the second I find that it is best to have a third person who has tried VR before and is playing a game before the new person has a go (this post is mainly addressed at people who own VR headsets themselves), the reason for this is that you are probably very good at using the headset, as one would expect you to be, you own it, and probably had a chance to get to know how to use it without anyone else looking at you. In order to convince someone that something is doable and they won't struggle it's easiest to show them by having someone who doesn't have that much experience with the system use it in front of them, so they can see how intuitive it really is.
+
+Summary
+
+This article really could have just been this series of dot points:
+- Rollercoaster simulators are bad for people who haven't done VR before
+- Oculus First Steps is really good
+- Don't show off how good you are something and then expect someone else to have a go, no one wants to follow someone who knows what they are doing, especially if other people are watching
+- Oculus Quests and headsets like them are a whole new ball game compared to phone VR, if someone has tried that before, tell them you have too and this is a whole different thing
+
+Habits are difficult: why this post is bad
+
+This is going to be one of those blog posts that is written just because I have to every Saturday. For the first couple of weeks of the blog (I believe this is the 6th post) I actually thought about what I was going to write in advance, and spent a bit of time making sure that the article was actually well written. I have since fallen out of this habit. 
+
+Some of the habits that I hold I think are generally fairly good, I go to bed at a reasonable time unless I am at an event, I eat fairly well, and I don't drink much. Over the last year or so I have been trying to improve my habits, I started doing yoga regularly and I felt way better for it, I tried to get into more regular exercise (stuff less zen than yoga, mainly weights and rock climbing, and recently I've been trying to read more books and publish more of my thoughts and writing. For all of these things I've failed at times, and for all of them I have in essence cheated to try and keep a streak going (this post isn't going to be 500 words and 2 minutes of yoga doesn't really count, that's just stretching). 
+
+I think that in all of these endeavours it was worth it just to try, and my life is definitely better now because I attempted to improve it. There is obviously a point where pledging to do too many things is counterproductive, but I have space to think about a couple more things. 
+
+I'm going to start a new habit, every Friday at 5pm I'm going to announce the topic of the week's blog post on Twitter. This isn't going to be a massive undertaking, but I think it will make me a little less likely to be coming up with topics and typing posts out on my phone at 4:49pm while sitting in a park.
+
+Learning to Drive in VR
+
+The Situation
+
+Today I'm announcing a new project. While I have been driving automatic cars for years but I have never driven a manual. One of my new housemates has moved in and brought his G920 Logitech steering wheel. A year ago I bought an Oculus Quest, and have been itching to try a driving game on a wheel ever since. 
+
+The Impetus
+
+All of my housemates drive manual cars, and I don't have a car myself. It would be really useful if I could learn how to drive one, but I don't want to damage anyone else's car because I have no idea what I'm doing.
+
+The Solution
+
+Obviously instead of having one of my friends help me learn to drive a manual, the only logical solution is to strap on my VR headset and teach myself to drive a manual in City Car Driving. I've just finished setting it up and after some trial and error we have got the car moving. Technically driving in VR is fairly challenging, because there are so many pieces that have to work together, and because it is really hot right now, and my computer is experiencing thermal throttling.
+
+The Actual Plan
+
+I'm going to try and play this game for 10 hours to get the hang of driving a manual. Then I am going to go for a drive with one of my friends and see if the skills have transferred from the virtual world into the real one. Most of this driving is probably going to be in City Car Driving because it has good reviews for its realism, but I'll try some other more racing focused games as well. 
+
+What I Think Is Going to Happen
+
+I think that this project will be a moderate success, I think I will get used to habitually using a clutch pedal and changing gears, but the setup won't be close enough to a real car for me to drive a manual properly on the first try. I think I will probably still stall the car a lot, and do poor gear changes, I believe that I will however improve a lot more quickly than if I had never practiced in VR at all.
+
+An Optimistic Financial Plan
+
+The 4% Rule
+
+One of my favourite facts about money is known as the 4% rule. The idea is that if you only need to withdraw 4% of the value of your portfolio every year, that money should last forever (because the returns on the rest of the money will on average more than make up for the spending). This concept is used by many people in the FIRE (Financial Independence, Retire Early) movement to calculate how much they need for early retirement. I like doing this calculation because it gives me a direct plan towards financial freedom, something that for most people is often shrouded and mystery and associated with stress. The numbers in this post aren’t overly important, everyone is different, you might want to spend more money, your income might be higher or lower than mine, but if you have any space in your budget it can be really useful to figure out what that little bit leftover could become if invested continually over time.
+
+This is not a post about whether the 4% rule really works, there has been work suggesting it should be 3% or 5% or some other such number. I’m going to use the 4% rule because it’s used more commonly than the others.
+
+How much I want to have
+
+You can express the 4% rule as the 25x rule, if you have 25x your annual spending than you should be able to retire at that level of spending. If I want to spend $20,000 a year (which is what I currently believe I will live off before I have dependents) then I will need 25 x $20,000 = $500,000 to support that lifestyle. If I earn on average $60,000 a year (this is a hypothetical number, if you are going to use the calculator yourself, just pick a number a little above what you earn now to account for modest raises that you are likely to receive) and am only spending $20,000, then that leaves me with $40,000 a year left over to invest, you can add to this any returns you get from investments previously made.
+
+How long it will take me to get it
+
+I’ve done the calculation for this by hand before, but it’s a lot easier to use an investment calculator like the one here. If you assume average rate of return of 7%, $40,000 yearly contributions, and no saving to start with, it will take me 9.074 years to have half a million dollars.
+
+Why I do calculations like this
+
+I think that doing calculations like this are useful because they let you understand the impacts of the choices you are making now on the rest of your life. $20,000 a year isn’t an enormous amount of money, but if you want $40,000 a year it will only take 15 years (at that point you have made $400,000 just in investment returns). It’s difficult to make sacrifices for something that you don’t understand, but knowing the effect not spending a lot while working full time now will have on my freedom in a few years’ time is very inspiring to me. It’s important to recognise that while this plan will definitely not happen in the way I have written it (my income will be higher or lower, I may spend more or less money, the market may not provide returns in line with historical averages) it is nice to have a baseline goal and a mechanism for getting there.
+
+How AWS makes me FEEL
+
+Amazon Web Services is the world's largest cloud computing service. Last year I put a lot of time into learning about the platform and earned 4 AWS Certifications (I completed most of those certifications immediately before getting a job that is AWS-unrelated and did not care at all that achieved them, I don't regret spending the time or the money at all). There are some obvious professional reasons why I chose to do this, it is a highly sought after skill, and it allows you to build out technology projects at lightning speed. However, these reasons aren't why I am so enthusiastic about AWS. I love AWS because when I am building out infrastructure in the console, I feel like I can accomplish anything (in a way, I can). 
+
+It feels similar to when I started programming around 6 years ago, once you know the basic tools (conditionals, basic functions, loops) you can technically build just about anything, and that concept still gives me a rush to this day.
+
+I think there are a lot of good reasons to study STEM. It offers great job opportunities, but it also is just really cool. We have worked out how to make giant machines that fly through the air, we have access to the entire world's knowledge in our pockets, and we have rid the world of diseases that have plagued us for centuries.
+
+If you live in a world where you can basically be a wizard, why would you want to learn accounting? Generally one's enthusiasm in learning a powerful tool will be attenuated by the fact that it is near impossible to achieve much of significance alone, in order to create something great, you will need to work will other highly educated people, and you probably won't have much control over the process.
+
+AWS doesn't really work like that, yes, you do need a lot of specialized professionals if you want to make something as complicated as Facebook.com, but at one click of a button you can start a server in India that has the processing power of your desktop (or 100 times that of your desktop, or 10% that of your desktop), or create an API, or create a functions that texts all of your friends. There fact that these things are priced in a way that you only have to pay for the one hour (or one millisecond) that you are playing around with the service, you can have a combination of freedom annd technological power that is difficult to replicate anywhere else.
+
+[Something about Werner Vogels and builders]
+
+This post is going to be the first one that I edit a lot. This is primarily because I forgot to schedule a post for this week. I want to add a lot about what happened with Parler and AWS this week. But it is controversial and will change the entire theme of the post. 
+
+If you are actually reading this before it gets edited, you are a true hardcore fan, and I am very grateful for you.
+
+Why big tacos are better and elephants can't walk on water
+
+There is an interesting fact that bubbles to the surface when you examine all manner of phenomena. As 3D objects get larger their surface area grows more slowly than their volume. This first affected my life when I was trying to eat some of Old El Paso's new Fiery Soft Tacos (they were not that fiery; they have not sponsored this post) and they could barely fit anything in them. I was left with more taco filling than I could wrap and was deeply disappointed. 
+
+While this example is about Old El Paso's teeny tiny tacos, the maths works the same for anything you would want to fold up and store food in. If you double the radius of a tortilla, it takes four times the amount of flour to make it (it's proportional to r^2 and (2r)^2 = 4r^2) but the amount it can hold increases by eight times (it's proportional to r^3 and (2r)^3 = 8r^3). This means that the ratio of the flour used to food encased improves as you increase the size of the taco. If Old El Paso had used the same amount of ingredients and instead just made it into fewer but larger tacos, my misery could have been prevented.
+
+The same relationship holds for the surface of the Earth versus its volume. If you were to split the surface of the Earth up into 100m^2 blocks so that people could build houses on them that were 4m tall we could fit (surface area of Earth = 510 million square kilometres) / (100m^2 = 1/10,000 square kilometres)= 5.1 trillion houses. This is a shockingly large number and may seem unreasonable, but it is important to remember that most of the worlds land is ocean, used for agriculture, or not developed at all. 
+
+However, if we were able to turn the whole volume into houses, we would be able to build a whopping (volume of Earth = 1 quadrillion cubic kilometres) / (400m^3 = 1/2,500,000 cubic kilometres) = 2.5 sextillion houses. 
+
+This is not a number most people are able to understand intuitively, but written out in full that is 2,500,000,000,000,000,000,000 houses, enough for every person currently on Earth to to have 350 billion each. This is an absurd number and shows just how incomprehensibly large the planet we are standing on really is.
+
+There are many other examples of where this matters in nature, why  don't dragonflies sink when they step on water? Because they are small enough that the surface tension of the water is powerful enough to support the weight, the surface tension scales with x^2 (because it is a surface phenomenon), while the gravity working against the surface tension scales with x^3 (because it is based on the volume of the organism). Just like with the houses, once things get large enough effects that scale cubically (with x^3) dominate and things that were important as smaller scales become irrelevant (it would be absurd for something the size of an elephant to stand on the surface of water just due to water tension). 
+
+I think this is the kind of mathematical exploration that should be done more in classrooms, while an enormous amount of time is dedicated to the matching of functions to shapes on a graph or algebraic expressions, understanding the physical manifestations is what allows one to have a real mathematical understanding of the world.
+
+For a great animated explanation of this phenomena, it is explored well in the Life and Size series by Kurzgesagt.
+
+The One About The Resolutions
+
+A Blog? In 2021?
+
+Yes, I'm starting a proper weekly blog, I'm psyched. 
+
+I've wanted to put more writing on the internet for a while. I'm generally a fairly private person, the only place you can currently find out much about me on the internet is my LinkedIn profile. I also tweet very occasionally (@AndrewWhistle) but will be now using my twitter ruthlessly to promote this blog.
+
+I don't really expect anyone to read the blog but that's not really the point. I want a place where I can spend time practice my writing where the stakes aren't too high (I can't get fired from my own blog) but I still have to put out good work because anyone who wants to can see it.
+
+I know that blogs are not amazingly popular anymore and anyone who wants to get famous is getting on TikTok (is that still the big thing? with social media I always at least a year behind), but the humble blog is the most free and open way to publish content on the internet, so I'm going to stick with it for at least a year.
+
+What's the plan?
+
+I'm going to be writing posts that are at least 500 words long once a week and publishing them at 5pm every Saturday of the year. I will occasionally edit the posts after they go up (this rule is required so that I don't stress too much about hitting the publish button). 
+
+I'm going to be writing every couple of days, drafting on paper beforehand and then developing these drafts into posts that I feel comfortable publishing. One of the reasons I don't post anywhere is because I feel I can always improve what I've written, so I think the weekly deadline will help me actually finish a lot more work. 
+
+What's the blog about?
+
+It's not really about anything specific. It's not going to be weekly updates on my life, that would be boring. Here is a list of posts that I intend to make, this might give you some idea of what I'm going to be doing.
+
+The right way to introduce people to VR
+
+Why we need a UBI
+
+Why big tacos are better than small tacos
+
+What do you even do in a maths degree?
+
+Is flying evil?
+
+What actually makes fresh air fresh?
+
+Planning Thursdays: My best idea of 2020
+
+Australia's world-class poverty traps
+
+It is very likely that not all of the above will get made, as many of the posts I intend to write will require significant research and it may turn out that there just isn't a good enough story to publish.
+
+Other Resolutions
+
+I am also going to read 52 books this year, starting with Principles by Ray Dalio. This will probably come up in a couple of blog posts but is otherwise a separate endeavour. Now that I have finished univeristy, I want to make sure that I keep learning and I plan to do that by reading a lot of books.
+
+I also have a secret resolution that I will talk about at the end of the year (probably in the last blog post) but it would ruin the point a little if everyone knew about it.
